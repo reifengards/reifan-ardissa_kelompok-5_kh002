@@ -29,9 +29,9 @@ class HomePage extends StatelessWidget {
       body: Center(
         // Skor aktivitas bernilai 74 (didapat dari 24 + 50) sesuai rumus penugasan[cite: 22]
         child: ProfileCard(
-          nama: "Melvin Edward Apryanto Simatupang",
-          nim: "20240801124",
-          hobi: "Futsal dan Badminton",
+          nama: "Reifan Ardissa Rachmanto",
+          nim: "20240801002",
+          hobi: "Gaming & Motorsports",
           skorAktivitas: 74,
         ),
       ),
