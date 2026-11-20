@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980497760081",
+    "project_id": "pemrogramanmobile-52d6e",
+    "storage_bucket": "pemrogramanmobile-52d6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980497760081:android:249e52484f343a39c29d70",
+        "android_client_info": {
+          "package_name": "com.example.tugas_layout_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlW-iikDxmRLuW_q6rmfpbILDMyIxwdKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
